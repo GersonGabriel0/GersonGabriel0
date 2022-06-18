@@ -15,7 +15,7 @@
   
   ![Snake animation](https://github.com/GersonGabriel0/GersonGabriel0/blob/output/github-contribution-grid-snake.svg)
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Atualmente+estou+Trabalhando;Na+Cooperativa+COOPERANTE+loclaizada+em;Campo+do+Tenente,+PR+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Atualmente+estou+Trabalhando;Na+Cooperativa+COOPERANTE+localizada+em;Campo+do+Tenente,+PR+:%29)](https://git.io/typing-svg)
 
 ### Minhas Habilidades:
 <DIV>   
