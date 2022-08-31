@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Gerson Gabriel Komarcheuski Ribeiro&fontSize=30&fontColor=00FF00&animation=twinkling&fontAlignY=35"/> 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Gerson+Gabriel+Komarcheuski+Ribeiro;Tenho+19+anos;Sou+de+Campo+Do+Tenente,+PR;5°+Fase+Engenharia+de+Software+na+UNC+MAFRA,+SC;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Gerson+Gabriel+Komarcheuski+Ribeiro;Tenho+19+anos;Sou+de+Campo+Do+Tenente,+PR;6°+Fase+Engenharia+de+Software+na+UNC+MAFRA,+SC;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
   
   <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GersonGabriel0&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&bg_color=0d1117" alt="Gerson Gabriel K Ribeiro github stats" /> 
